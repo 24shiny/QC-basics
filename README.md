@@ -3,6 +3,6 @@ This repository contains fundamental code examples in quantum computing using ma
 <br> Currently, the following concepts are covered:
 <ul>
   <li>Quipper and OpenQASM: Quantum Programming Languages</li>
-  <li>How to extract specifications of quantum circuits in Qiskit and PennyLane</li>
-  <li></li>
+  <li>How to extract specifications of quantum circuits/li>
+  <li>Tket: The Quantum Compilation SDK</li>
 </ul>
