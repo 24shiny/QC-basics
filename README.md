@@ -5,4 +5,9 @@ This repository contains fundamental code examples in quantum computing using ma
   <li>Quipper and OpenQASM: Quantum Programming Languages</li>
   <li>How to extract specifications of quantum circuits/li>
   <li>Tket: The Quantum Compilation SDK</li>
+  <li>KetGPT: 1000 benchmarking circuits</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
